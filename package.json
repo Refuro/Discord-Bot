@@ -1,0 +1,19 @@
+{
+  "name": "stockbot",
+  "version": "1.0.0",
+  "description": "A bot for discord that retrieves a tickers value.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Refuro/StockBot.git"
+  },
+  "author": "Christian Spencer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Refuro/StockBot/issues"
+  },
+  "homepage": "https://github.com/Refuro/StockBot#readme"
+}
